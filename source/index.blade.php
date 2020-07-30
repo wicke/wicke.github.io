@@ -3,6 +3,7 @@
 @section('body')
 <div class="mx-auto w-3/4 m-6 p-10 bg-white rounded-md border-2 border-black  text-center">
     <h1 class="text-3xl">CHADWICKE SPENSER SIMPSON</h1>
+    <span class="block text-xl">AGE: 46</span>
 </div> 
 
 <div class="mx-auto w-3/4 m-6 p-10 bg-orange-300 rounded-md border-2 border-black  text-center">
